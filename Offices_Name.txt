@@ -1,0 +1,83 @@
+﻿OUE Bayfront,Singapore
+MBFC Tower 1,Singapore
+MBFC Tower 2,Singapore
+MBFC Tower 3,Singapore
+Ocean Financial Centre,Singapore
+One Raffles Quay - North Tower,Singapore
+One Raffles Quay - South Tower,Singapore
+Asia Square Tower 1,Singapore
+Asia Square Tower 2,Singapore
+CapitaGreen,Singapore
+Marina One East Tower,Singapore
+Marina One West Tower,Singapore
+CapitaSpring,Singapore
+6 Battery Road,Singapore
+Bank of Singapore Centre,Singapore
+Capital Square,Singapore
+One Raffles Place Tower 2,Singapore
+One George Street,Singapore
+One Marina Boulevard,Singapore
+Republic Plaza I,Singapore
+Samsung Hub,Singapore
+UOB Plaza 1,Singapore
+18 Cross Street,Singapore
+Singapore Land Tower,Singapore
+71 Robinson,Singapore
+Capital Tower,Singapore
+UIC Building,Singapore
+Frasers Tower,Singapore
+79 Robinson Road,Singapore
+Afro-Asia i-Mark,Singapore
+Twenty Anson,Singapore
+78 Shenton Tower 2,Singapore
+Mapletree Anson,Singapore
+Guoco Tower,Singapore
+Centennial Tower,Singapore
+Millenia Tower,Singapore
+One Raffles Link,Singapore
+South Beach Tower,Singapore
+Wheelock Place,Singapore
+9 Penang Road,Singapore
+Duo Tower,Singapore
+30 Raffles Place (formerly Chevron House) ,Singapore
+PLUS (formerly GSH Plaza),Singapore
+Income At Raffles,Singapore
+Hong Leong Building,Singapore
+One Raffles Place Tower 1,Singapore
+Prudential Tower,Singapore
+Manulife Tower,Singapore
+Republic Plaza II,Singapore
+UOB Plaza 2,Singapore
+18 Robinson,Singapore
+18 Cross Street,Singapore
+Singapore Land Tower,Singapore
+OUE Downtown 1,Singapore
+OUE Downtown 2,Singapore
+SGX Centre 1,Singapore
+SGX Centre 2,Singapore
+Robinson 77 ,Singapore
+Springleaf Tower,Singapore
+AXA Tower,Singapore
+78 Shenton Tower 1,Singapore
+Hub Synergy Point,Singapore
+Raffles City Tower,Singapore
+Suntec Tower 1,Singapore
+Suntec Tower 2,Singapore
+Suntec Tower 3,Singapore
+Suntec Tower 4,Singapore
+Suntec Tower 5,Singapore
+Funan O1,Singapore
+Funan O2,Singapore
+Ngee Ann City - Tower A,Singapore
+Ngee Ann City - Tower B,Singapore
+"The Atrium@Orchard, Tower One",Singapore
+"The Atrium@Orchard, Tower Two",Singapore
+The Paragon,Singapore
+Winsland House I,Singapore
+Winsland House II ,Singapore
+Wisma Atria,Singapore
+Bugis Junction Towers,Singapore
+Gateway East,Singapore
+Gateway West,Singapore
+Parkview Square,Singapore
+Central Square,Singapore
