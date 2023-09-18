@@ -38,4 +38,4 @@ text = MIMEText (body, 'html')
 msg.attach (text)
 
 server = smtplib.SMTP (smtp_server) 
-server.sendmail (sender, rec_list, msg.as_string()) 
+server.sendmail (sender, rec_list, msg.as_string())
