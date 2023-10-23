@@ -1,0 +1,477 @@
+Property_Name,Building_Name,Street_No_From,Street_name,Latitude,Longitude,PLN_AREA_N,PLN_AREA_C,REGION_N
+Parkway Parade,Parkway Parade,80,Marine Parade,1.3010698,103.9052795,MARINE PARADE,MP,Central
+E-Centre @ Redhill,E-Centre @ Redhill,3791,Jalan Bukit Merah,1.285066,103.811656,BUKIT MERAH,BM,Central
+150 Cantonment Road Block B,150 Cantonment Road Block B,150,Cantonment Road,1.2740127,103.8406402,BUKIT MERAH,BM,Central
+The Aquarius,The Aquarius,21,Science Park Road,1.289009,103.781326,QUEENSTOWN,QT,Central
+The Rutherford,The Rutherford,89,Science Park Drive,1.288009,103.791294,QUEENSTOWN,QT,Central
+The Aries,The Aries,51,Science Park Road,1.286978,103.783231,QUEENSTOWN,QT,Central
+OSIM HQ Building,OSIM HQ Building,65,Ubi Avenue 1,1.324667,103.893472,GEYLANG,GL,Central
+18 Science Park Drive,18 Science Park Drive,18,Science Park Drive,1.290204,103.78829,QUEENSTOWN,QT,Central
+Guthrie House,Guthrie House,1,Fifth Avenue,1.330902,103.795698,BUKIT TIMAH,BT,Central
+Guthrie Building,Guthrie Building,150,Changi Road,1.316657,103.902193,GEYLANG,GL,Central
+Clementi Warehouse - Block 36,Clementi Warehouse - Block 36,36,Clementi Road,1.293337,103.769133,QUEENSTOWN,QT,Central
+Clementi Warehouse - Block 36C,Clementi Warehouse - Block 36C,36C,Clementi Road,1.2933682,103.7691088,QUEENSTOWN,QT,Central
+Harbourside Building 2,Harbourside Building 2,2,Boon Leat Terrace,1.275106,103.796808,QUEENSTOWN,QT,Central
+Southpoint,Southpoint,200,Cantonment Road,1.273415,103.841297,BUKIT MERAH,BM,Central
+The Plaza,The Plaza,7500A,Beach Road,1.299811,103.860709,DOWNTOWN CORE,DT,Central
+Golden Mile Complex,Golden Mile Complex,5001,Beach Road,1.302923,103.865414,DOWNTOWN CORE,DT,Central
+Katong Shopping Centre,Katong Shopping Centre,865,Mountbatten Road,1.303923,103.90122,MARINE PARADE,MP,Central
+The Maxwell,The Maxwell,14,Science Park Drive,1.289815,103.787591,QUEENSTOWN,QT,Central
+The Cavendish,The Cavendish,85,Science Park Drive,1.288304,103.790496,QUEENSTOWN,QT,Central
+Keypoint,Keypoint,371,Beach Road,1.302303,103.862301,KALLANG,KL,Central
+Alexandra Point,Alexandra Point,438,Alexandra Road,1.277191,103.802025,QUEENSTOWN,QT,Central
+UOB Alexandra Building,UOB Alexandra Building,396,Alexandra Road,1.277904,103.802202,QUEENSTOWN,QT,Central
+Cintech II,Cintech II,75,Science Park Drive,1.290102,103.790002,QUEENSTOWN,QT,Central
+Pek Chuan Building,Pek Chuan Building,116,Lavender Street,1.311885,103.862322,KALLANG,KL,Central
+Pico Creative Centre,Pico Creative Centre,20,Kallang Avenue,1.309901,103.865202,KALLANG,KL,Central
+Reliance Building,Reliance Building,351,Jalan Besar,1.312313,103.859497,KALLANG,KL,Central
+Sim Lim Tower,Sim Lim Tower,10,Jalan Besar,1.303811,103.854699,ROCHOR,RC,Central
+The Concourse,The Concourse,300,Beach Road,1.301025,103.862504,DOWNTOWN CORE,DT,Central
+116 Changi Road,116 Changi Road,116,Changi Road,1.316409,103.901203,GEYLANG,GL,Central
+190 Changi Road,190 Changi Road,190,Changi Road,1.316907,103.90303,GEYLANG,GL,Central
+Automobile Megamart,Automobile Megamart,61,Ubi Ave 2,1.3315504,103.9012483,GEYLANG,GL,Central
+Breezeway Building,Breezeway Building,451,Joo Chiat Place,1.3069177,103.9045546,MARINE PARADE,MP,Central
+Certis Cisco Centre 1,Certis Cisco Centre 1,20,Jalan Afifi,1.3224175,103.8920556,GEYLANG,GL,Central
+Certis Cisco Centre 2,Certis Cisco Centre 2,20,Jalan Afifi,1.3224175,103.8920556,GEYLANG,GL,Central
+Eastgate,Eastgate,46,East Coast Road,1.304381,103.903298,MARINE PARADE,MP,Central
+Geylang Centre,Geylang Centre,301,Geylang Road,1.312695,103.878645,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Great Eastern @ Changi,Great Eastern @ Changi,200,Changi Road,1.316936,103.903519,GEYLANG,GL,Central
+Haw Par Technocentre,Haw Par Technocentre,401,Commonwealth Drive,1.303138,103.796632,QUEENSTOWN,QT,Central
+Fragrance Empire Building,Fragrance Empire Building,456,Alexandra Road,1.275203,103.801308,QUEENSTOWN,QT,Central
+mTower,mTower,460,Alexandra Road,1.273785,103.80139,QUEENSTOWN,QT,Central
+Hiap Huat House,Hiap Huat House,70,Bendemeer Road,1.316503,103.862645,KALLANG,KL,Central
+Junction 8 Shopping Centre,Junction 8 Shopping Centre,9,Bishan Place,1.350607,103.848866,BISHAN,BS,Central
+Leisure Park Katong,Leisure Park Katong,5,Stadium Walk,1.3023011,103.876474,KALLANG,KL,Central
+AZ @ Paya Lebar,AZ @ Paya Lebar,140,Paya Lebar Road,1.327302,103.890841,GEYLANG,GL,Central
+KA Centre,KA Centre,150,Kampong Ampat,1.334991,103.883704,TOA PAYOH,TP,Central
+KA Place,KA Place,159,Kampong Ampat,1.334839,103.882955,TOA PAYOH,TP,Central
+Teletech Park,Teletech Park,20,Science Park Road,1.286609,103.781601,QUEENSTOWN,QT,Central
+Cintech III,Cintech III,77,Science Park Drive,1.289435,103.791224,QUEENSTOWN,QT,Central
+Orion@Paya Lebar,Orion@Paya Lebar,160,Paya Lebar Road,1.329325,103.890312,GEYLANG,GL,Central
+The Fleming,The Fleming,59,Science Park Drive,1.292424,103.786759,QUEENSTOWN,QT,Central
+CPF Bishan Building,CPF Bishan Building,3,Bishan Place,1.349756,103.84924,BISHAN,BS,Central
+SingPost Centre,SingPost Centre,10,Eunos Road 8,1.319093,103.894805,GEYLANG,GL,Central
+SLF Building,SLF Building,510,Thomson Road,1.333635,103.839459,TOA PAYOH,TP,Central
+Joo Chiat Complex,Joo Chiat Complex,2,Joo Chiat Road,1.31566,103.898991,GEYLANG,GL,Central
+Kitchener Complex,Kitchener Complex,809,French Road,1.308327,103.8620059,KALLANG,KL,Central
+Paramount Shopping Centre,Paramount Shopping Centre,30,East Coast Road,1.303798,103.902916,MARINE PARADE,MP,Central
+Pasir Panjang Building,Pasir Panjang Building,15,West Coast Road Highway,1.2928837,103.767231,CLEMENTI,CL,West
+MBC 10,MBC 10,10,Pasir Panjang Road,1.274793,103.799101,QUEENSTOWN,QT,Central
+45 Genting Lane,45 Genting Lane,45,Genting Lane,1.327781,103.874737,GEYLANG,GL,Central
+The Gemini,The Gemini,41,Science Park Road,1.288698,103.782903,QUEENSTOWN,QT,Central
+Bukit Timah Shopping Centre,Bukit Timah Shopping Centre,170,Upper Bukit Timah Road,1.343213,103.775968,BUKIT TIMAH,BT,Central
+New Park Hotel Shopping Arcade,New Park Hotel Shopping Arcade,181,Kitchener Road,1.3105168,103.8556647,KALLANG,KL,Central
+1557 Keppel Road Block C,1557 Keppel Road Block C,1557,Keppel Road,1.2731582,103.8406001,BUKIT MERAH,BM,Central
+Beauty World Plaza,Beauty World Plaza,140,Upper Bukit Timah Road,1.341736,103.776244,BUKIT TIMAH,BT,Central
+Lipo Building,Lipo Building,621,Aljunied Road,1.324909,103.880047,GEYLANG,GL,Central
+SCN Industrial Building,SCN Industrial Building,118,Lorong 23 Geylang,1.318236,103.8808331,GEYLANG,GL,Central
+Roxy Square,Roxy Square,50,East Coast Road,1.303917,103.904319,MARINE PARADE,MP,Central
+Chiat Hong Building,Chiat Hong Building,110,Middle Road,1.298998,103.853851,ROCHOR,RC,Central
+Henderson Industrial Park Block 217,Henderson Industrial Park Block 217,217,Henderson Road,1.280637,103.819537,BUKIT MERAH,BM,Central
+Henderson Industrial Park Block 213,Henderson Industrial Park Block 213,213,Henderson Road,1.281178,103.818848,BUKIT MERAH,BM,Central
+Cititech Industrial Building,Cititech Industrial Building,629,Aljunied Road,1.325962,103.879632,GEYLANG,GL,Central
+Elite Industrial Building I,Elite Industrial Building I,32,Kallang Pudding Road,1.328733,103.878092,GEYLANG,GL,Central
+Elite Industrial Building II,Elite Industrial Building II,47,Tannery Lane,1.328064,103.877588,GEYLANG,GL,Central
+Henderson Industrial Park Block 211,Henderson Industrial Park Block 211,211,Henderson Road,1.282075,103.819634,BUKIT MERAH,BM,Central
+Sin Ming Plaza,Sin Ming Plaza,2,Sin Ming Road,1.352487,103.835716,BISHAN,BS,Central
+Biz Tech Centre,Biz Tech Centre,627A,Aljunied Road,1.326013,103.879163,GEYLANG,GL,Central
+The Chadwick,The Chadwick,81,Science Park Drive,1.289014,103.79051,QUEENSTOWN,QT,Central
+Kallang Distrpark ,Blk 1801,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+Kallang Distrpark ,Blk 1765,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+Kallang Distrpark ,Blk 1779,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+Kallang Distrpark ,Blk 1811,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+CyberHub @ Bendemeer,CyberHub @ Bendemeer,20,Bendemeer Road,1.314514,103.862171,KALLANG,KL,Central
+HDB Hub East Wing,HDB Hub East Wing,490,Lorong 6 Toa Payoh,1.3320549,103.8485076,TOA PAYOH,TP,Central
+Crystal Time Building,Crystal Time Building,16,Tannery Lane,1.328574,103.875769,GEYLANG,GL,Central
+The Office Chamber,The Office Chamber,230,Jalan Besar,1.309305,103.858001,KALLANG,KL,Central
+The Curie,The Curie,83,Science Park Drive,1.288703,103.791094,QUEENSTOWN,QT,Central
+Amtech Building,Amtech Building,159,Sin Ming Road,1.356402,103.837514,BISHAN,BS,Central
+Anchorpoint Shopping Centre,Anchorpoint Shopping Centre,370,Alexandra Road,1.288799,103.80513,QUEENSTOWN,QT,Central
+City Plaza,City Plaza,810,Geylang Road,1.314988,103.893388,GEYLANG,GL,Central
+Citilink Warehouse,Citilink Warehouse,102E,Pasir Panjang,1.27609,103.79541,QUEENSTOWN,QT,Central
+The Pasteur,The Pasteur,16,Science Park Drive,1.290513,103.787197,QUEENSTOWN,QT,Central
+The Galen,The Galen,61,Science Park Road,1.286618,103.784112,QUEENSTOWN,QT,Central
+Jalan Besar Plaza,Jalan Besar Plaza,101,Kitchener Road,1.308675,103.858073,KALLANG,KL,Central
+50 Kallang Avenue,50 Kallang Avenue,50,Kallang Avenue,1.312733,103.866517,KALLANG,KL,Central
+Alexandra Technopark Block A,Alexandra Technopark Block A,438A,Alexandra Road,1.277705,103.800699,QUEENSTOWN,QT,Central
+Alexandra Technopark Block B,Alexandra Technopark Block B,438B,Alexandra Road,1.277405,103.799402,QUEENSTOWN,QT,Central
+The Furniture Mall - Turf City,The Furniture Mall - Turf City,200,Turf Club Road,1.3387967,103.7932561,BUKIT TIMAH,BT,Central
+Kallang Distrpark ,Blk 1769,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+63 Harbour Link,63 Harbour Link,63,Alexandra Terrace,1.276899,103.797801,QUEENSTOWN,QT,Central
+SCCCI Building,SCCCI Building,47,Hill Street,1.293192,103.850232,DOWNTOWN CORE,DT,Central
+Link@896,Link@896,896,Dunearn Road,1.336601,103.783726,BUKIT TIMAH,BT,Central
+PSB Science Park Annex,PSB Science Park Annex,3,Science Park Drive,1.291319,103.786994,QUEENSTOWN,QT,Central
+HB Centre I,HB Centre I,12,Tannery Road,1.329101,103.876371,GEYLANG,GL,Central
+The Comtech,The Comtech,60,Alexandra Terrace,1.2761786,103.8000399,QUEENSTOWN,QT,Central
+Hotel Windsor,Hotel Windsor,40,Macpherson Road,1.3317236,103.879538,TOA PAYOH,TP,Central
+Jay Gee House,Jay Gee House,10,Genting Lane,1.328566,103.872654,GEYLANG,GL,Central
+Harbour Link Block 61,Harbour Link Block 61,61,Alexandra Terrace,1.277465,103.797724,QUEENSTOWN,QT,Central
+Harbour Link Block 63,Harbour Link Block 63,63,Alexandra Terrace,1.276899,103.797801,QUEENSTOWN,QT,Central
+The Galen,Phase II,,Pasir Panjang Road,1.2865511,103.784086,QUEENSTOWN,QT,Central
+Cityneon Design Centre,Cityneon Design Centre,84,Genting Lane,1.324543,103.877307,GEYLANG,GL,Central
+Connection One Tower 5,Connection One Tower 5,167,Jalan Bukit Merah,1.282743,103.818536,BUKIT MERAH,BM,Central
+Connection One Tower 3,Connection One Tower 3,168,Jalan Bukit Merah,1.2829322,103.8187986,BUKIT MERAH,BM,Central
+The Crimson,The Crimson,31,Science Park Road,1.288202,103.782109,QUEENSTOWN,QT,Central
+SCN Centre,SCN Centre,12,Aljunied Road,1.314014,103.882232,GEYLANG,GL,Central
+Cintech I,Cintech I,73,Science Park Drive,1.290615,103.789293,QUEENSTOWN,QT,Central
+The Alpha,The Alpha,10,Science Park Road,1.288109,103.779602,QUEENSTOWN,QT,Central
+The Capricorn,The Capricorn,1,Science Park Road,1.289537,103.778291,QUEENSTOWN,QT,Central
+Toa Payoh Entertainment Centre,Toa Payoh Entertainment Centre,189,Lorong 6 Toa Payoh,1.33124,103.847511,TOA PAYOH,TP,Central
+EPL Building,EPL Building,1100,Lower Delta Road,1.280139,103.821935,BUKIT MERAH,BM,Central
+HDB Hub West Wing,HDB Hub West Wing,480,Lorong 6 Toa Payoh,1.332193,103.848527,TOA PAYOH,TP,Central
+Siemens Centre - Block 1,Siemens Centre - Block 1,60,Macpherson Road,1.3274298,103.87081,GEYLANG,GL,Central
+167 Geylang Road,167 Geylang Road,167,Geylang Road,1.311556,103.874669,KALLANG,KL,Central
+201 Joo Chiat Road,201 Joo Chiat Road,201,Joo Chiat Road,1.311851,103.900951,GEYLANG,GL,Central
+161 Lavender Street,161 Lavender Street,161,Lavender Street,1.312883,103.860892,KALLANG,KL,Central
+Katong Mall,Katong Mall,112,East Coast Road,1.305346,103.904887,MARINE PARADE,MP,Central
+10 Aljunied Road,10 Aljunied Road,10,Aljunied Road,1.313556,103.882285,GEYLANG,GL,Central
+20 Harbour Drive,20 Harbour Drive,20,Harbour Drive,1.283125,103.779399,QUEENSTOWN,QT,Central
+MBC 20E,MBC 20E,20,Pasir Panjang Road,1.274812,103.799106,QUEENSTOWN,QT,Central
+MBC 30,MBC 30,30,Pasir Panjang Road,1.274815,103.799111,QUEENSTOWN,QT,Central
+Tanjong Pagar Distripark,Block 39,39,Keppel Road,1.271912,103.836694,BUKIT MERAH,BM,Central
+Pasir Panjang Distripark,Block 161,151,Pasir Panjang Road,1.272394,103.794779,QUEENSTOWN,QT,Central
+10 Raeburn Park Block A,10 Raeburn Park Block A,10,Raeburn Road,1.2970798,103.8563989,DOWNTOWN CORE,DT,Central
+GMTI Building,GMTI Building,6,Commonwealth Lane,1.304863,103.7973,QUEENSTOWN,QT,Central
+Halcyon Building,Halcyon Building,39A,Jalan Pemimpin,1.349749,103.840619,BISHAN,BS,Central
+MSL Building,MSL Building,27,Ubi Road 4,1.330686,103.899183,GEYLANG,GL,Central
+Connection One Tower 4,Connection One Tower 4,167,Jalan Bukit Merah,1.2826154,103.8185524,BUKIT MERAH,BM,Central
+Holiday Inn Atrium,Holiday Inn Atrium,317,Outram Road,1.288994,103.83411,BUKIT MERAH,BM,Central
+HDB Hub BizThree,HDB Hub BizThree,490,Lorong 6 Toa Payoh,1.3325746,103.8482679,TOA PAYOH,TP,Central
+The Franklin,The Franklin,3,Science Park Drive,1.291319,103.786994,QUEENSTOWN,QT,Central
+Connection One Tower 1,Connection One Tower 1,168,Jalan Bukit Merah,1.282933,103.818557,BUKIT MERAH,BM,Central
+Tan Chong Motor Centre,Tan Chong Motor Centre,911/913,Bukit Timah Road,1.3332992,103.7887989,BUKIT TIMAH,BT,Central
+Luzerne,Luzerne,70,Bendemeer Road,1.316503,103.862645,KALLANG,KL,Central
+150 Cantonment Road Block A,150 Cantonment Road Block A,150,Cantonment Road,1.2740127,103.8406402,BUKIT MERAH,BM,Central
+SPH Media Centre,SPH Media Centre,82,Genting Lane,1.325212,103.876672,GEYLANG,GL,Central
+HB Centre II,HB Centre II,31,Tannery Lane,1.328739,103.876267,GEYLANG,GL,Central
+DNV GL Technology Centre,DNV GL Technology Centre,16,Science Park Drive,1.290513,103.787197,QUEENSTOWN,QT,Central
+Jackson Square Block A,Jackson Square Block A,11,Lorong 3 Toa Payoh,1.3373513,103.8484945,TOA PAYOH,TP,Central
+Jackson Square Block B,Jackson Square Block B,11,Lorong 3 Toa Payoh,1.3373513,103.8484945,TOA PAYOH,TP,Central
+Jackson Square Block C,Jackson Square Block C,11,Lorong 3 Toa Payoh,1.3373513,103.8484945,TOA PAYOH,TP,Central
+Ubi Biz-Hub,Ubi Biz-Hub,150,Ubi Avenue 4,1.334557,103.89614,GEYLANG,GL,Central
+One Tannery (Formerly Cencon I),One Tannery ,1,Tannery Road,1.330465,103.878106,GEYLANG,GL,Central
+Union Industrial Building,Block B,37,Jalan Pemimpin,1.348842,103.841003,BISHAN,BS,Central
+50 MacPherson Road,50 MacPherson Road,50,Macpherson Road,1.327944,103.870273,GEYLANG,GL,Central
+Platinum 28,Platinum 28,28,Genting Lane,1.328221,103.873135,GEYLANG,GL,Central
+100 Pasir Panjang Road,100 Pasir Panjang Road,100,Pasir Panjang,1.2754291,103.7957608,QUEENSTOWN,QT,Central
+991B Alexandra Road,991B Alexandra Road,991B,Alexandra Road,1.273909,103.803397,BUKIT MERAH,BM,Central
+991 Alexandra Road Block 1,991 Alexandra Road Block 1,991,Alexandra Road,1.2744196,103.8029119,BUKIT MERAH,BM,Central
+HSR Building,HSR Building,16,Lorong 7 Toa Payoh,1.337373,103.855535,TOA PAYOH,TP,Central
+Golden Agri Plaza,Golden Agri Plaza,108,Pasir Panjang Road,1.276616,103.794408,QUEENSTOWN,QT,Central
+15 Commonwealth Avenue,15 Commonwealth Avenue,15,Commonwealth Lane,1.305951,103.797095,QUEENSTOWN,QT,Central
+Mountbatten Centre - Block A,Mountbatten Centre - Block A,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+700 Beach Road,700 Beach Road,700,Beach Road,1.302407,103.864202,DOWNTOWN CORE,DT,Central
+Mountbatten Centre - Block B,Mountbatten Centre - Block B,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+Mountbatten Centre - Block C,Mountbatten Centre - Block C,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+Mountbatten Centre - Block D,Mountbatten Centre - Block D,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+Mountbatten Centre - Block F,Mountbatten Centre - Block F,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+Mountbatten Centre - Block G,Mountbatten Centre - Block G,231,Mountbatten Road,1.3080999,103.8808951,GEYLANG,GL,Central
+The Kendall,The Kendall,50,Science Park Road,1.285917,103.783518,QUEENSTOWN,QT,Central
+The Sail @ Marina Bay,The Sail - Tower One,2,Marina Boulevard,1.2807695,103.8526586,DOWNTOWN CORE,DT,Central
+The Sail @ Marina Bay,The Sail - Tower Two,2,Marina Boulevard,1.2807695,103.8526586,DOWNTOWN CORE,DT,Central
+Starhub Green - North Tower,Starhub Green - North Tower,67,Ubi Avenue 1,1.3242766,103.8927748,GEYLANG,GL,Central
+991F Alexandra Road,991F Alexandra Road,991F,Alexandra Road,1.273603,103.803617,BUKIT MERAH,BM,Central
+City Square Mall,City Square Mall,180,Kitchener Road,1.311445,103.85666,KALLANG,KL,Central
+Kallang Distripark,Kallang Distripark,1801,Geylang Bahru,1.318707,103.871325,KALLANG,KL,Central
+Tat Ann Building,Tat Ann Building,40,Jalan Pemimpin,1.34861,103.842147,BISHAN,BS,Central
+Tan Boon Liat Building,Tan Boon Liat Building,313,Outram Road,1.287203,103.834611,BUKIT MERAH,BM,Central
+Leong Huat Building,Leong Huat Building,6,Harper Road,1.335134,103.887485,TOA PAYOH,TP,Central
+2 Bukit Merah Central,2 Bukit Merah Central,2,Bukit Merah Central ,1.284054,103.813745,BUKIT MERAH,BM,Central
+Henson Warehouse,143,135,Ubi Avenue 4,1.335661,103.895196,GEYLANG,GL,Central
+1079 Eunos Avenue 7,1079 Eunos Avenue 7,1079,Eunos Avenue 7,1.322197,103.894334,GEYLANG,GL,Central
+Bosch Building,Bosch Building,38C ,Jalan Pemimpin,1.347713,103.842081,BISHAN,BS,Central
+Bosch Singapore Regional HQ,Bosch Singapore Regional HQ,11,Bishan Street 21,1.347633,103.84121,BISHAN,BS,Central
+10 Ubi Techpark,10 Ubi Techpark,10,Ubi Crescent,1.3262753,103.8961307,GEYLANG,GL,Central
+Delta House ,Delta House ,2,Alexandra Road,1.291127,103.825253,BUKIT MERAH,BM,Central
+MBC 20W,MBC 20W,20,Pasir Panjang Road,1.274812,103.799106,QUEENSTOWN,QT,Central
+Kong Beng Industrial Building,Kong Beng Industrial Building,41,Jalan Pemimpin,1.349915,103.841766,BISHAN,BS,Central
+Henderson Industrial Park Block 203,Henderson Industrial Park Block 203,203,Henderson Road,1.281611,103.821243,BUKIT MERAH,BM,Central
+Henderson Industrial Park Block 219,Henderson Industrial Park Block 219,219,Henderson Road,1.280343,103.819929,BUKIT MERAH,BM,Central
+Ching Shine Industrial Building,20 Shaw Road,20,Shaw Road,1.33645,103.884087,TOA PAYOH,TP,Central
+CES Building,CES Building,69,Ubi Crescent,1.327523,103.897971,GEYLANG,GL,Central
+Cintech IV,Cintech IV,79,Science Park Drive,1.289518,103.790486,QUEENSTOWN,QT,Central
+Aztech Building,Aztech Building,31,Ubi Road 1,1.3268575,103.8925586,GEYLANG,GL,Central
+Kallang Distripark,Kallang Distrikpark,1775,Geylang Bahru,1.318695,103.870419,KALLANG,KL,Central
+Mountbatten Square,Mountbatten Square,229,Mountbatten Road,1.307511,103.881322,GEYLANG,GL,Central
+Yellow Pages Building,Yellow Pages Building,1,Lorong 2 Toa Payoh,1.340363,103.847329,TOA PAYOH,TP,Central
+Gordon Industrial Building,Gordon Industrial Building,113,Eunos Avenue 7,1.3193451,103.8968745,GEYLANG,GL,Central
+Harbourside Building 1,Harbourside Building 1,1,Boon Leat Terrace,1.275297,103.796304,QUEENSTOWN,QT,Central
+745 Lorong 5 Toa Payoh,745 Lorong 5 Toa Payoh,745,Toa Payoh,1.3331943,103.8528656,TOA PAYOH,TP,Central
+Utraco Greentech Building,Utraco Greentech Building,8,Commonwealth Lane,1.305251,103.797634,QUEENSTOWN,QT,Central
+Clarus Centre - Block A,Clarus Centre - Block A,37A,Jalan Pemimpin,1.3488434,103.8409075,BISHAN,BS,Central
+Pico Creative Centre Extension Block,Pico Creative Centre Extension Block,20,Kallang Avenue ,1.3097972,103.8650533,KALLANG,KL,Central
+63@Ubi,63@Ubi,63,Ubi Avenue 1,1.324808,103.893909,GEYLANG,GL,Central
+Henson Warehouse,145,135,Ubi Avenue 4,1.335661,103.895196,GEYLANG,GL,Central
+Henson Warehouse,135,135,Ubi Avenue 4,1.335661,103.895196,GEYLANG,GL,Central
+Citi,Citi,3,Changi Business Park,1.33399,103.96605,TAMPINES,TM,East
+25 Harper Road,25 Harper Road,25,Harper Road,1.334373,103.887062,TOA PAYOH,TP,Central
+1557 Keppel Road Block B,1557 Keppel Road Block B,1557,Keppel Road,1.2731583,103.8406002,BUKIT MERAH,BM,Central
+L & Y Building,L & Y Building,59,Jalan Pemimpin,1.351176,103.842385,BISHAN,BS,Central
+454 Joo Chiat Road,454 Joo Chiat Road,454,Joo Chiat Road,1.306352,103.904491,MARINE PARADE,MP,Central
+458 Joo Chiat Road,458 Joo Chiat Road,458A,Joo Chiat Road,1.306284,103.904533,MARINE PARADE,MP,Central
+991A Alexandra Road,991A Alexandra Road,991A,Alexandra Road,1.274317,103.803698,BUKIT MERAH,BM,Central
+991C Alexandra Road,991C Alexandra Road,991C,Alexandra Road,1.273707,103.804277,BUKIT MERAH,BM,Central
+10 Ubi Techpark,60 Ubi Techpark,60,Ubi Crescent,1.326514,103.895093,GEYLANG,GL,Central
+D'Lithium,D'Lithium,82,Playfair Road,1.337291,103.88539,TOA PAYOH,TP,Central
+Tides @ East Coast,Tides @ East Coast,217,East Coast Road,1.307554,103.906955,MARINE PARADE,MP,Central
+991 Alexandra Road Block 2,991 Alexandra Road Block 2,991,Alexandra Road,1.2744197,103.8029117,BUKIT MERAH,BM,Central
+991D Alexandra Road,991D Alexandra Road,991D,Alexandra Road,1.273097,103.803609,BUKIT MERAH,BM,Central
+10 Raeburn Park Block C,10 Raeburn Park Block C,10,Raeburn Road,1.2740198,103.8341234,BUKIT MERAH,BM,Central
+80 Bendemeer Road,80 Bendemeer Road,80,Bendemeer Road,1.31705,103.863217,KALLANG,KL,Central
+Depot Road Project - High Tech Block,Depot Road Project - High Tech Block,,,1.2798038,103.8165912,BUKIT MERAH,BM,Central
+84 Genting Lane,84 Genting Lane,84,Genting Lane,1.324543,103.877307,GEYLANG,GL,Central
+34 Boon Leat Terrace,34 Boon Leat Terrace,34,Boon Leat Terrace,1.276014,103.797199,QUEENSTOWN,QT,Central
+Utraco Greentech Building - Annex Block,Utraco Greentech Building - Annex Block,8,Commonwealth Lane,1.3053072,103.7976652,QUEENSTOWN,QT,Central
+One Tannery,One Tannery,1,Tannery Road,1.330465,103.878106,GEYLANG,GL,Central
+223@Mountbatten,223@Mountbatten,223,Mountbatten Road,1.308391,103.878998,GEYLANG,GL,Central
+Inno Centre,Inno Centre,1003,Bukit Merah Central ,1.283464,103.814086,BUKIT MERAH,BM,Central
+1557 Keppel Road Block A,1557 Keppel Road Block A,1557,Keppel Road,1.2731583,103.8406002,BUKIT MERAH,BM,Central
+978 Toa Payoh North,978 Toa Payoh North,978,Toa Payoh North,1.343111,103.851474,TOA PAYOH,TP,Central
+988 Toa Payoh North,988 Toa Payoh North,988,Toa Payoh North,1.342757,103.849996,TOA PAYOH,TP,Central
+The Galen,The Galen,61,Science Park Road,1.286618,103.784112,QUEENSTOWN,QT,Central
+Evershine & Century Complex,Evershine & Century Complex,45,Beach Road,1.296307,103.855907,DOWNTOWN CORE,DT,Central
+991E Alexandra Road,991E Alexandra Road,991E,Alexandra Road,1.273206,103.802902,BUKIT MERAH,BM,Central
+991G Alexandra Road,991G Alexandra Road,991G ,Alexandra Road,1.273706,103.802705,BUKIT MERAH,BM,Central
+Paya Lebar Square,Paya Lebar Square,60,Paya Lebar Road,1.318877,103.892554,GEYLANG,GL,Central
+Eagle Centre,Eagle Centre,166,Bukit Merah Central ,1.283086,103.81766,BUKIT MERAH,BM,Central
+163 Kallang Way,163 Kallang Way,163,Kallang Way,1.321714558,103.8752871,GEYLANG,GL,Central
+166 Bukit Merah Central,166 Bukit Merah Central,166,Bukit Merah Central ,1.283086,103.81766,BUKIT MERAH,BM,Central
+HSR Building,HSR Building,3,Lorong 6 Toa Payoh,1.337396,103.854585,TOA PAYOH,TP,Central
+Aztech - Main Building,Aztech - Main Building,31,Ubi Road 1,1.3268575,103.8925586,GEYLANG,GL,Central
+Aztech - Annex Block,Aztech - Annex Block,31,Ubi Road 1,1.3268575,103.8925586,GEYLANG,GL,Central
+Framework Building,Framework Building,2,Aljunied Road,1.3197,103.889,GEYLANG,GL,Central
+Aperia Tower 2,Aperia Tower 2,10,Kallang Avenue ,1.310817,103.863704,KALLANG,KL,Central
+Aperia Tower 1,Aperia Tower 1,8,Kallang Avenue ,1.310871,103.863904,KALLANG,KL,Central
+GB Point,GB Point,535,Kallang Bahru Road,1.3212765,103.870757,KALLANG,KL,Central
+Crystal Time Building,Crystal Time Building,16,Tannery Lane,1.328574,103.875769,GEYLANG,GL,Central
+45 Ubi Road,45 Ubi Road,45,Ubi Road 1,1.329634,103.89155,GEYLANG,GL,Central
+55 Ubi Avenue 3,55 Ubi Avenue 3,55,Ubi Avenue 3,1.333656,103.897064,GEYLANG,GL,Central
+21 Ubi Road 1,21 Ubi Road 1,21,Ubi Road 1,1.326406,103.892996,GEYLANG,GL,Central
+UOB Centre,UOB Centre,148,Upper Bukit Timah Road,1.342576,103.776106,BUKIT TIMAH,BT,Central
+WestWay,WestWay,27,West Coast Road Highway,1.2831068,103.7804923,QUEENSTOWN,QT,Central
+MBC 80,MBC 80,80,Pasir Panjang Road,1.27591,103.800703,QUEENSTOWN,QT,Central
+MBC 70,MBC 70,70,Pasir Panjang Road,1.276197,103.799988,QUEENSTOWN,QT,Central
+MBC 60,MBC 60,60,Pasir Panjang Road,1.276408,103.799502,QUEENSTOWN,QT,Central
+MBC 50,MBC 50,50,Pasir Panjang Road,1.276387,103.798903,QUEENSTOWN,QT,Central
+ARC 380,ARC 380,380,Jalan Besar,1.313204,103.860401,KALLANG,KL,Central
+81 Playfair Road,81 Playfair Road,81,Playfair Road,1.335311,103.886169,TOA PAYOH,TP,Central
+716 Geylang Road,716 Geylang Road,716,Geylang Road,1.31477,103.891418,GEYLANG,GL,Central
+718 Geylang Road,718 Geylang Road,718,Geylang Road,1.314775,103.891488,GEYLANG,GL,Central
+722 Geylang Road,722 Geylang Road,722,Geylang Road,1.314815,103.891577,GEYLANG,GL,Central
+728 Geylang Road,728 Geylang Road,728,Geylang Road,1.314843,103.891708,GEYLANG,GL,Central
+25 Lorong 8 Toa Payoh,25 Lorong 8 Toa Payoh,25,Lorong 8 Toa Payoh,1.338763,103.860812,TOA PAYOH,TP,Central
+102 Guillemard Road,102 Guillemard Road,102,Guillemard Road,1.309956,103.88244,GEYLANG,GL,Central
+Richfield Industrial Centre,Richfield Industrial Centre,122,Eunos Avenue 7,1.323379,103.896257,GEYLANG,GL,Central
+Townerville,Townerville,55,McNair Road,1.3201264,103.8580093,KALLANG,KL,Central
+Townerville,Townerville,67,McNair Road,1.3191148,103.8575691,KALLANG,KL,Central
+135 Joo Seng Road,135 Joo Seng Road,135,Joo Seng Road,1.338054,103.88281,TOA PAYOH,TP,Central
+1 Kallang Way 2A,1 Kallang Way 2A,1,Kallang Way 2A,1.322903,103.877253,GEYLANG,GL,Central
+1 Kay Siang Road,1 Kay Siang Road,1,Kay Siang Road,1.296198,103.815606,QUEENSTOWN,QT,Central
+Elite Building (Formerly CPA House),Elite Building (Formerly CPA House),20,Aljunied Road,1.314337,103.882156,GEYLANG,GL,Central
+8 Commonwealth Lane,8 Commonwealth Lane,8,Commonwealth Lane,1.305251,103.797634,QUEENSTOWN,QT,Central
+27 Ubi Road 4,27 Ubi Road 4,27,Ubi Road 4,1.330686,103.899183,GEYLANG,GL,Central
+UBIX,UBIX,25,Ubi Road 4,1.33083,103.899541,GEYLANG,GL,Central
+84 Genting Lane,84 Genting Lane,84,Genting Lane,1.324543,103.877307,GEYLANG,GL,Central
+HB@119 Genting Lane,HB@119 Genting Lane,119,Genting Lane,1.324876,103.878196,GEYLANG,GL,Central
+25 Kallang Avenue,25 Kallang Avenue,25,Kallang Avenue ,1.310798,103.865951,KALLANG,KL,Central
+16 Kallang Avenue,16 Kallang Avenue,16,Kallang Avenue ,1.3166647,103.8662707,KALLANG,KL,Central
+732 Geylang Road,732 Geylang Road,732,Geylang Road,1.314853,103.891799,GEYLANG,GL,Central
+23 Ubi Road 1,23 Ubi Road 1,23,Ubi Road 1,1.326119,103.892383,GEYLANG,GL,Central
+128 Joo Seng Road,128 Joo Seng Road,128,Joo Seng Road,1.337131,103.882636,TOA PAYOH,TP,Central
+Central Link,Central Link,8,Jalan Kilang Barat,1.285299,103.807948,BUKIT MERAH,BM,Central
+5 Lorong Bakar Batu,5 Lorong Bakar Batu,5,Lorong Bakar Batu,1.327931,103.872886,GEYLANG,GL,Central
+535 Kallang Bahru,535 Kallang Bahru,535,Kallang Bahru,1.321211,103.870818,KALLANG,KL,Central
+138 Joo Seng Road,138 Joo Seng Road,138,Joo Seng Road,1.337811,103.884601,TOA PAYOH,TP,Central
+443 Tanjong Katong Road,443 Tanjong Katong Road,443,Tanjong Katong Road,1.2996,103.897219,MARINE PARADE,MP,Central
+445 Tanjong Katong Road,445 Tanjong Katong Road,445,Tanjong Katong Road,1.29956,103.897323,MARINE PARADE,MP,Central
+447 Tanjong Katong Road,447 Tanjong Katong Road,447,Tanjong Katong Road,1.299584,103.89741,MARINE PARADE,MP,Central
+2 Amber Road,2 Amber Road,2,Amber Road,1.299319257,103.8973687,MARINE PARADE,MP,Central
+Toa Payoh Tower 3,Toa Payoh Tower 3,620A,Lorong 1 Toa Payoh,1.336313,103.841893,TOA PAYOH,TP,Central
+736 Geylang Road,736 Geylang Road,736,Geylang Road,1.314845,103.891924,GEYLANG,GL,Central
+181/183/185 Macpherson Road,181/183/185 Macpherson Road ,,Macpherson Road,1.3303133,103.8752697,TOA PAYOH,TP,Central
+1 Jalan Wangi,1 Jalan Wangi,1,,1.329931,103.8741825,TOA PAYOH,TP,Central
+Hexacube,Hexacube,160,Changi Road,1.31681,103.902415,GEYLANG,GL,Central
+1/A/B Jalan Wangi,1/A/B Jalan Wangi,1/A/B,Jalan Wangi,1.329931,103.8741824,TOA PAYOH,TP,Central
+Townerville,Townerville,12,May Road,1.3209424,103.8581333,KALLANG,KL,Central
+Ascent Tower B,Ascent Tower B,2,Science Park Drive,1.2907615,103.784855,QUEENSTOWN,QT,Central
+Ascent Tower A,Ascent Tower A,2,Science Park Drive,1.2907615,103.784855,QUEENSTOWN,QT,Central
+712B Geylang Road,712B Geylang Road,712B,Geylang Road,1.314778,103.891166,GEYLANG,GL,Central
+998 Toa Payoh North,998 Toa Payoh North,998,Toa Payoh North,1.343191,103.850476,TOA PAYOH,TP,Central
+Toa Payoh North 1,Toa Payoh North 1,970,Toa Payoh North,1.342747,103.850953,TOA PAYOH,TP,Central
+Toa Payoh North 3,Toa Payoh North 3,1008,Toa Payoh North,1.34296,103.845957,TOA PAYOH,TP,Central
+Aperia The Annex,Aperia The Annex,12,Kallang Avenue ,1.309713,103.864287,KALLANG,KL,Central
+Paya Lebar Quarter Tower 1,Paya Lebar Quarter Tower 1,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+Paya Lebar Quarter Tower 2,Paya Lebar Quarter Tower 2,1,Paya Lebar Link ,1.317726,103.894022,GEYLANG,GL,Central
+Paya Lebar Quarter Tower 3,Paya Lebar Quarter Tower 3,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+Excalibur Centre ,Excalibur Centre,71,Ubi Crescent,1.326929,103.898311,GEYLANG,GL,Central
+730 Geylang Road,730 Geylang Road,730,Geylang Road,1.314844,103.891757,GEYLANG,GL,Central
+Paya Lebar Office Centre Block 1,Paya Lebar Office Centre Block 1,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+Paya Lebar Office Centre Block 2,Paya Lebar Office Centre Block 2,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+Yenom Industrial Building,Yenom Industrial Building,123,Genting Lane,1.323945,103.878496,GEYLANG,GL,Central
+UB Point,UB Point,61,Ubi Avenue 1,1.324905,103.894356,GEYLANG,GL,Central
+OC@Pasir Panjang,OC@Pasir Panjang,100H,Pasir Panjang,1.278129,103.7967543,QUEENSTOWN,QT,Central
+3 Depot Close,3 Depot Close,3,Depot Close,1.283198,103.80673,BUKIT MERAH,BM,Central
+Centropod @ Changi,Centropod @ Changi,80,Changi Road,1.316306,103.900558,GEYLANG,GL,Central
+Vanguard Campus,Vanguard Campus,1,Kallang Junction,1.312465,103.864196,KALLANG,KL,Central
+724 Geylang Road,724 Geylang Road,724,Geylang Road,1.314801,103.891624,GEYLANG,GL,Central
+Paya Lebar Office Centre - Block 1,Paya Lebar Office Centre - Block 1,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+Paya Lebar Office Centre - Block 2,Paya Lebar Office Centre - Block 2,29,Paya Lebar Road,1.3170487,103.8919536,GEYLANG,GL,Central
+The Grandstand,The Grandstand,200,Turf Club Road,1.33796,103.793476,BUKIT TIMAH,BT,Central
+CT Hub 2,CT Hub 2,114,Lavender Street,1.311595,103.863077,KALLANG,KL,Central
+Vertex Tower B,Vertex Tower B,33,Ubi Avenue 3,1.332934,103.894165,GEYLANG,GL,Central
+Interlocal Centre ,Interlocal Centre,100G,Pasir Panjang Road,1.277484,103.796463,QUEENSTOWN,QT,Central
+Katong Point,Katong Point,451,Joo Chiat Road,1.306929,103.904523,MARINE PARADE,MP,Central
+35 Boon Leat Terrace,35 Boon Leat Terrace,35,Boon Leat Terrace,1.275683,103.796964,QUEENSTOWN,QT,Central
+Starhub Green - South Tower,Starhub Green - South Tower,67,Ubi Avenue 1,1.324275,103.8927019,GEYLANG,GL,Central
+Apex @ Henderson ,Apex @ Henderson,201,Henderson Road,1.282262,103.820467,BUKIT MERAH,BM,Central
+10 Raeburn Park Block B,10 Raeburn Park Block B,10,Raeburn Park,1.2740187,103.8341194,BUKIT MERAH,BM,Central
+2 Ubi View (Formerly as CSE Global),2 Ubi View (Formerly as CSE Global),2,Ubi View,1.332868,103.897382,GEYLANG,GL,Central
+UE Bizhub West,UE Bizhub West,450,Alexandra Road,1.27651,103.801709,QUEENSTOWN,QT,Central
+30A Kallang Place,30A Kallang Place,30A,Kallang Place,1.314617706,103.8659221,KALLANG,KL,Central
+World Publication Building,World Publication Building,39,Ubi Road 1,1.329222,103.891563,GEYLANG,GL,Central
+130 Joo Seng Road,130 Joo Seng Road,130,Joo Seng Road,1.337507,103.882909,TOA PAYOH,TP,Central
+BS Bendemeer Centre,BS Bendemeer Centre,20,Bendemeer Road,1.314514,103.862171,KALLANG,KL,Central
+3 Kallang Junction,3 Kallang Junction,3,Kallang Junction,1.312795,103.864457,KALLANG,KL,Central
+10 Raeburn Park Podium Blk,10 Raeburn Park Podium Blk,10,Raeburn Park,1.2740187,103.8341194,BUKIT MERAH,BM,Central
+Concorde Shopping Centre,Concorde Shopping Centre,317,Outram Road,1.288994,103.83411,BUKIT MERAH,BM,Central
+Solaris @ Kallang 164 West Wing,Solaris @ Kallang 164 West Wing,164,Kallang Way,1.3237641,103.8756752,GEYLANG,GL,Central
+Solaris @ Kallang 164 East Wing,Solaris @ Kallang 164 East Wing,164,Kallang Way,1.3237641,103.8756752,GEYLANG,GL,Central
+Tai Seng Centre,Tai Seng Centre,3,Irving Road,1.335764,103.886908,TOA PAYOH,TP,Central
+118 Joo Chiat,118 Joo Chiat,118,Joo Chiat Road,1.313845,103.899019,GEYLANG,GL,Central
+198 Geylang Road,198 Geylang Road,198,Geylang Road,1.311693,103.8762,GEYLANG,GL,Central
+Ascent 5,Ascent 5,5,Science Park Drive,1.29207905,103.7867106,QUEENSTOWN,QT,Central
+138 Depot Road,138 Depot Road,138,Depot Road,1.283046,103.808153,BUKIT MERAH,BM,Central
+115A Commonwealth Drive,115A Commonwealth Drive,115A,Commonwealth Drive,1.304845,103.798057,QUEENSTOWN,QT,Central
+1003 Bukit Merah Central,1003 Bukit Merah Central,1003,Bukit Merah Central ,1.283464,103.814086,BUKIT MERAH,BM,Central
+457 MacPherson Road,457 MacPherson Road,457,Macpherson Road,1.332511,103.882882,TOA PAYOH,TP,Central
+587 Geylang Road,587 Geylang Road,587,Geylang Road,1.314071,103.886418,GEYLANG,GL,Central
+81 Joo Chiat Road,81 Joo Chiat Road,81,Joo Chiat Road,1.314317,103.899076,GEYLANG,GL,Central
+Four Star Building,Four Star Building,44,Kallang Place,1.313859,103.868321,KALLANG,KL,Central
+Zhaolim Building,Zhaolim Building,115,Eunos Avenue 3,1.319486,103.897502,GEYLANG,GL,Central
+2 Soon Wing Road,2 Soon Wing Road,2,Soon Wing Road,1.32758,103.879571,GEYLANG,GL,Central
+100 Eunos Ave 7,100 Eunos Ave 7,100,Eunos Avenue 7,1.323161,103.897643,GEYLANG,GL,Central
+Toa Payoh North 2,Toa Payoh North 2,1004,Toa Payoh North,1.343186,103.847203,TOA PAYOH,TP,Central
+3014A Ubi Road 1,3014A Ubi Road 1,3014A,Ubi Road 1,1.329531,103.893452,GEYLANG,GL,Central
+3015A Ubi Road 1,3015A Ubi Road 1,3015A,Ubi Road 1,1.328662,103.893005,GEYLANG,GL,Central
+LHK Building,LHK Building,701,Sims Drive,1.318328,103.877217,GEYLANG,GL,Central
+440 Pasir Panjang Road,440 Pasir Panjang Road,440,Pasir Panjang Road,1.292496,103.768427,QUEENSTOWN,QT,Central
+7 Playfair Road,7 Playfair Road,7,Playfair Road,1.333583,103.88642,TOA PAYOH,TP,Central
+Genting Building,Genting Building,83,Genting Lane,1.326726,103.876504,GEYLANG,GL,Central
+352 Tanglin Road,352 Tanglin Road,352,Tanglin Road,1.295299,103.814697,QUEENSTOWN,QT,Central
+FM Global Centre,FM Global Centre,288,Pasir Panjang,1.286366,103.7805369,QUEENSTOWN,QT,Central
+Jackson Square Block D,Jackson Square Block D,11,Lorong 3 Toa Payoh,1.3373513,103.8484945,TOA PAYOH,TP,Central
+351 On Braddell,351 On Braddell,351,Braddell Road,1.343413165,103.845619,TOA PAYOH,TP,Central
+East Coast Road,162,162,East Coast Road,1.3064352,103.9060579,MARINE PARADE,MP,Central
+East Coast Road,164,164,East Coast Road,1.306465,103.906083,MARINE PARADE,MP,Central
+B-Central,B-Central,994,Bendemeer Road,1.319769,103.865109,KALLANG,KL,Central
+Victory Centre,Victory Centre,110,Lorong 23 Geylang,1.318276,103.881322,GEYLANG,GL,Central
+14 Little Road,14 Little Road,14,Little Road,1.338491,103.884708,TOA PAYOH,TP,Central
+767 Geylang Road,767 Geylang Road,767,Geylang Road,1.315057,103.89118,GEYLANG,GL,Central
+Cideco Industrial Complex,Cideco Industrial Complex,50,Genting Lane,1.327593,103.873665,GEYLANG,GL,Central
+City Industrial Building,City Industrial Building,71,Tannery Lane,1.326976,103.879122,GEYLANG,GL,Central
+Citilink Warehouse Complex ,Citilink Warehouse Complex ,102E,Pasir Panjang Road,1.276002,103.79531,QUEENSTOWN,QT,Central
+Citilink Warehouse Complex ,Citilink Warehouse Complex ,,Pasir Panjang Road,1.2760261,103.7953335,QUEENSTOWN,QT,Central
+Edward Boustead Centre,Edward Boustead Centre,82,Ubi Avenue 4,1.332917,103.892317,GEYLANG,GL,Central
+Geylang Post Office,Geylang Post Office,447,Geylang Road,1.313279,103.882278,GEYLANG,GL,Central
+Tanjong Katong Complex,Tanjong Katong Complex,845,Geylang Road,1.316221,103.894387,GEYLANG,GL,Central
+Tanjong Pagar Distripark,37,37,Keppel Road,1.271904,103.838298,BUKIT MERAH,BM,Central
+Tanjong Pagar Distripark,39,39,Keppel Road,1.271912,103.836694,BUKIT MERAH,BM,Central
+Brilliant Building,Brilliant Building,136,Joo Seng Road,1.337701,103.884054,TOA PAYOH,TP,Central
+20 Joo Chiat Road,20 Joo Chiat Road,20,Joo Chiat Road,1.315666,103.897739,GEYLANG,GL,Central
+600 Geylang Road ,600 Geylang Road ,600,Geylang Road,1.314086,103.888029,GEYLANG,GL,Central
+602 Geylang Road,602 Geylang Road,602,Geylang Road,1.3141,103.88806,GEYLANG,GL,Central
+604 Geylang Road,604 Geylang Road,604,Geylang Road,1.314109,103.888115,GEYLANG,GL,Central
+606 Geylang Road,606 Geylang Road,606,Geylang Road,1.314098,103.888185,GEYLANG,GL,Central
+Kallang Place,7 Kallang Place,7,Kallang Place,1.3168419,103.8673686,KALLANG,KL,Central
+Kallang Place,11 Kallang Place,11,Kallang Place,1.3153431,103.8683213,KALLANG,KL,Central
+Kallang Place,9 Kallang Place,9,Kallang Place,1.316191,103.868304,KALLANG,KL,Central
+Kallang Place,16 Kallang Place,16,Kallang Place,1.3166646,103.8662707,KALLANG,KL,Central
+587 Geylang Road,587 Geylang Road,587,Geylang Road,1.314071,103.886418,GEYLANG,GL,Central
+22 Sam Leong Road,22 Sam Leong Road,22,Sampan Place,1.3095182,103.8569463,KALLANG,KL,Central
+International Press Building,International Press Building,26,Kallang Avenue ,1.31023,103.867363,KALLANG,KL,Central
+Centrium Square,Centrium Square,320,Serangoon Road,1.310913,103.855198,KALLANG,KL,Central
+Isetan Office Building,Isetan Office Building,593,Havelock Road,1.289307,103.83212,BUKIT MERAH,BM,Central
+896 Dunearn Road,896 Dunearn Road,896,Dunearn Road,1.336601,103.783726,BUKIT TIMAH,BT,Central
+Bukit Timah Shopping Centre,Bukit Timah Shopping Centre,170,Bukit Timah Road,1.311507,103.842699,NOVENA,NV,Central
+325/327 Geylang Road,325/327 Geylang Road,325,Geylang Road,1.312777,103.879409,GEYLANG,GL,Central
+62 Koon Seng Road,62 Koon Seng Road,62,Kovan Road,1.3112397,103.9040816,MARINE PARADE,MP,Central
+HH @ Kallang,HH @ Kallang,56,Kallang Pudding Road,1.328072,103.878916,GEYLANG,GL,Central
+Ruby Land Complex,Ruby Land Complex,54,Genting Lane,1.326791,103.874428,GEYLANG,GL,Central
+271 Jalan Besar,271 Jalan Besar,271,Jalan Besar,1.310519,103.858405,KALLANG,KL,Central
+174/176 East Coast Road,174/176 East Coast Road,174,East Coast Road,1.306656,103.906315,MARINE PARADE,MP,Central
+331 Geylang Road,331 Geylang Road,331,Geylang Road,1.312805,103.879568,GEYLANG,GL,Central
+333 Geylang Road,333 Geylang Road,333,Geylang Road,1.31286,103.879593,GEYLANG,GL,Central
+600/A Serangoon Road,To Rename,,Serangoon Road,1.3152568,103.8584258,KALLANG,KL,Central
+221 Lavender Street,221 Lavender Street,221,Lavender Street,1.314662,103.859593,KALLANG,KL,Central
+223 Lavender Street,223 Lavender Street,223,Lavender Street,1.314682,103.85954,KALLANG,KL,Central
+598 Serangoon Road,598 Serangoon Road,598,Serangoon Road,1.315205,103.8584,KALLANG,KL,Central
+233 Lavender Street,233 Lavender Street,233,Lavender Street,1.314874,103.859408,KALLANG,KL,Central
+267 Lavender Street,267 Lavender Street,267,Lavender Street,1.315468,103.858941,KALLANG,KL,Central
+255 Lavender Street,255 Lavender Street,255,Lavender Street,1.315293,103.859112,KALLANG,KL,Central
+253 Lavender Street,253 Lavender Street,253,Lavender Street,1.315277,103.859126,KALLANG,KL,Central
+245 Lavender Street,245 Lavender Street,245,Lavender Street,1.315106,103.859228,KALLANG,KL,Central
+136 Joo Seng Road,136 Joo Seng Road,136,Joo Seng Road,1.337701,103.884054,TOA PAYOH,TP,Central
+One Holland Village,One Holland Village,4,Holland Road,1.3123558,103.7935919,QUEENSTOWN,QT,Central
+21 Depot Lane,21 Depot Lane ,21,Depot Lane,1.281831,103.811439,BUKIT MERAH,BM,Central
+25 Depot Lane,25 Depot Lane,25,Depot Lane,1.282577,103.810579,BUKIT MERAH,BM,Central
+WBL Building,WBL Building,801,Lorong 7 Toa Payoh,1.334919,103.858495,TOA PAYOH,TP,Central
+257 Lavender Street,257 Lavender Street,257,Lavender Street,1.31534,103.859138,KALLANG,KL,Central
+594 Serangoon Road,594 Serangoon Road,594,Serangoon Road,1.315109,103.858297,KALLANG,KL,Central
+612 Serangoon Road,612 Serangoon Road,612,Serangoon Road,1.315507,103.858601,KALLANG,KL,Central
+Midview City,Midview City,18,Sin Ming Lane,1.3595,103.834366,BISHAN,BS,Central
+Kallang Place,26 Kallang Place,26,Kallang Place,1.315402,103.867512,KALLANG,KL,Central
+28 Kallang Place,28 Kallang Place,28,Kallang Place,1.315069,103.86696,KALLANG,KL,Central
+127 Joo Chiat Road,127 Joo Chiat Road,127,Joo Chiat Road,1.313505,103.89966,GEYLANG,GL,Central
+43 Keppel Road,43 Keppel Road,43,Keppel Road,1.271908,103.833196,BUKIT MERAH,BM,Central
+231 Lavender Street,231 Lavender Street,231,Lavender Street,1.314818,103.859428,KALLANG,KL,Central
+241 Lavender Street,241 Lavender Street,241,Lavender Street,1.315018,103.859307,KALLANG,KL,Central
+259 Lavender Street,259 Lavender Street,259,Lavender Street,1.315367,103.859108,KALLANG,KL,Central
+620 Serangoon Road,620 Serangoon Road,620,Serangoon Road,1.315598,103.8587,KALLANG,KL,Central
+1 Depot Close,1 Depot Close,1,Depot Close,1.282187,103.805049,BUKIT MERAH,BM,Central
+PARKROYAL on Kitchener Road,PARKROYAL on Kitchener Road,181,Kitchener Road,1.310536,103.855603,KALLANG,KL,Central
+Ubi Techpark,Ubi Techpark,50,Ubi Crescent,1.327291,103.896305,GEYLANG,GL,Central
+Spaze,Spaze,202,Kallang Bahru,1.315976,103.865327,KALLANG,KL,Central
+5 Toa Payoh West ,5 Toa Payoh West ,5,Toa Payoh West,1.335127,103.841514,TOA PAYOH,TP,Central
+239 Lavender Street,239 Lavender Street,239,Lavender Street,1.314999,103.859322,KALLANG,KL,Central
+158 East Coast Road,158 East Coast Road,158,East Coast Road,1.306387,103.905985,MARINE PARADE,MP,Central
+WestWay,WestWay,27,West Coast Highway,1.2831067,103.7804923,QUEENSTOWN,QT,Central
+452 Alexandra Road,452 Alexandra Road,452,Alexandra Road,1.276804,103.800909,QUEENSTOWN,QT,Central
+Siemens Centre - Tower Block,Siemens Centre - Tower Block,60,Macpherson Road,1.327442,103.870747,GEYLANG,GL,Central
+247 Lavender Street,247 Lavender Street,247,Lavender Street,1.315155,103.85917,KALLANG,KL,Central
+25A Depot Lane,25A Depot Lane,25A,Depot Lane,1.282778,103.809866,BUKIT MERAH,BM,Central
+71 Lorong 23 Geylang,71 Lorong 23 Geylang,71,Lorong 23 Geylang,1.31626,103.880863,GEYLANG,GL,Central
+Kinex,Kinex,11,Tanjong Katong Road,1.314791,103.894536,GEYLANG,GL,Central
+Singapore Handicrafts Building,Singapore Handicrafts Building,72,Eunos Avenue 7,1.323353,103.898507,GEYLANG,GL,Central
+Braddell Tech,Braddell Tech,13,Lorong 8 Toa Payoh,1.340655,103.857756,TOA PAYOH,TP,Central
+14 Geylang Road,14 Geylang Road,14,Geylang Road,1.31007,103.871138,KALLANG,KL,Central
+119 @ Genting,119 @ Genting,119,Genting Lane,1.324876,103.878196,GEYLANG,GL,Central
+170 East Coast Road,170 East Coast Road,170,East Coast Road,1.306533,103.906195,MARINE PARADE,MP,Central
+24 Depot Lane,24 Depot Lane,24,Depot Lane,1.282143,103.810845,BUKIT MERAH,BM,Central
+23 Depot Lane,23 Depot Lane,23,Depot Lane,1.281996,103.810475,BUKIT MERAH,BM,Central
+HDB Hub Toa Payoh - Blk 490,HDB Hub Toa Payoh - Blk 490,490,Lorong 6 Toa Payoh,1.332573,103.848417,TOA PAYOH,TP,Central
+20 Depot Lane,20 Depot Lane,20,Depot Lane,1.28176,103.812056,BUKIT MERAH,BM,Central
+Connection One - Blk 167,Connection One - Blk 167,167,Jalan Bukit Merah,1.282743,103.818536,BUKIT MERAH,BM,Central
+Connection One - Blk 168,Connection One - Blk 168,168,Jalan Bukit Merah,1.282933,103.818557,BUKIT MERAH,BM,Central
+217 Henderson Road,217 Henderson Road,217,Henderson Road,1.280637,103.819537,BUKIT MERAH,BM,Central
+161 Kallang Way,161 Kallang Way,161,Kallang Way,1.322229,103.874908,GEYLANG,GL,Central
+TRION,TRION,17,Kallang Junction,1.313781,103.865587,KALLANG,KL,Central
+Oasis,Oasis,87,Science Park Drive,1.287718,103.790409,QUEENSTOWN,QT,Central
+Science Park I,Science Park I Building 1,,Science Park 1,1.2879795,103.7913371,QUEENSTOWN,QT,Central
+Science Park I,Science Park I Building 2,,Science Park 1,1.2879795,103.7913371,QUEENSTOWN,QT,Central
+Science Park I,Science Park I Building 3,,Science Park 1,1.2879795,103.7913371,QUEENSTOWN,QT,Central
+1 Genting Lane,1 Genting Lane,1,Genting Lane,1.328843,103.873286,GEYLANG,GL,Central
+St James Power Station,St James Power Station,3,Sentosa Gateway,1.264703,103.824901,BUKIT MERAH,BM,Central
+160 Kallang Way,160 Kallang Way ESR-LOGOS REIT,160,Kallang Way,1.322858,103.875798,GEYLANG,GL,Central
+Science Park I,Science Park I Building 4,,Science Park 1,1.2879795,103.7913371,QUEENSTOWN,QT,Central
+Beauty World Plaza,Beauty World Plaza,140,Upper Bukit Timah Road,1.341736,103.776244,BUKIT TIMAH,BT,Central
+"7 SPD, 7 Science Park Drive",7 Science Park Drive,7,Science Park Drive,1.290951,103.787194,QUEENSTOWN,QT,Central
+10 Craig Road,10 Craig Road,10,Craig Road,1.277665,103.842757,OUTRAM,OT,Central
+Harbourllink Innohub,61 Alexandra Terrace (Annex),61,Alexandra Terrace,1.277465,103.797724,QUEENSTOWN,QT,Central
+Harbourllink Innohub,63 Alexandra Terrace (Main),63,Alexandra Terrace,1.276899,103.797801,QUEENSTOWN,QT,Central
+165 Kallang Way,165 Kallang Way,165,Kallang Way,1.32248119,103.8748183,GEYLANG,GL,Central
+245 Jalan Besar,245 Jalan Besar,245,Jalan Besar,1.309809,103.858009,KALLANG,KL,Central
